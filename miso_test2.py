@@ -1,7 +1,6 @@
 # n1 = input("enter Number(Korean) 1 =>  ")
 # n2 = input("enter Number(Korean) 2 =>  ")
 
-30
 n1_kor = "십삼억오천칠백육십사만삼천이백팔십구"
 n2_kor = "천삼백육"
 
